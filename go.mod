@@ -1,4 +1,4 @@
-module go-supervisord
+module github.com/Just-Like/go-supervisord
 
 go 1.19
 
